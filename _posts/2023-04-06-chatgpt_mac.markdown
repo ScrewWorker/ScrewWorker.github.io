@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "chatGpt MAC电脑使用教程"
+title:  "chatGpt mac电脑使用教程"
 date:   2023-04-06 11:03:20 +0800
 categories: chatGpt mac
 ---
 ### chat gpt账号【点击购买】必须有<mark>账号</mark>，并且<mark>购买国外chat gpt专用节点</mark>才可以使用，账号购买后会直接发送，请返回聊天窗口查看，购买的账号内包含5美元，查询一次的收费很低，如下图，5美元用完了，再买一个新号即可，新账号内都有5美元。
 [chat gpt账号【点击购买】](http://id444.cn/ &quot;chat gpt账号【点击购买】&quot;)
+
 ![](/media/images/202304/chatgpt_tokens_pric_models.png)
 
 ### <mark> chat gpt对线路要求非常高，需要购买国外节点后才可以使用，市面上绝大部分科学上网工具用不了，如果你自有的工具用不了chat gpt，那这里推荐购买智云加速高速节点</mark>
 
 ### 可以解决chat gpt登录使用限制等等的问题，官网有在线客服在线排忧解难
 
-## 🏆速度飞快不卡顿节点[点击购买]🏆
+## 🏆速度飞快不卡顿节点[点击购买](https://zcloud88.com/register?aff=dw6ofj)🏆
 
 ### https://zcloud88.com/register?aff=dw6ofj
 
@@ -104,7 +105,7 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 一、chatgpt登陆：使用账号和密码登陆，
 官网地址：https://chat.openai.com/
 chat gpt账号购买地址：http://id444.cn/
-改密码邮箱登陆地址：mail.ru
+
 1,点log in 
 
 ![](/media/images/202304/chatgpt4_index.jpg)

@@ -12,7 +12,7 @@ categories: chatGpt android
 
 ### 可以解决chat gpt登录使用限制等等的问题，官网有在线客服在线排忧解难
 
-## 🏆速度飞快不卡顿节点[点击购买]🏆
+## 🏆速度飞快不卡顿节点[点击购买](https://zcloud88.com/register?aff=dw6ofj)🏆
 
 ### https://zcloud88.com/register?aff=dw6ofj
 
@@ -96,7 +96,7 @@ categories: chatGpt android
 一、chatgpt登陆：使用账号和密码登陆，
 官网地址：https://chat.openai.com/
 chat gpt账号购买地址：http://id444.cn/
-改密码邮箱登陆地址：mail.ru
+
 1,点log in
 
 ![](/media/images/202304/chatgpt4_index.jpg)
