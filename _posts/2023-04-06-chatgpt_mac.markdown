@@ -4,11 +4,11 @@ title:  "chatGpt MAC电脑使用教程"
 date:   2023-04-06 11:03:20 +0800
 categories: chatGpt mac
 ---
-### chat gpt账号【点击购买】必须有==账号==，并且==购买国外chat gpt专用节点==才可以使用，账号购买后会直接发送，请返回聊天窗口查看，购买的账号内包含5美元，查询一次的收费很低，如下图，5美元用完了，再买一个新号即可，新账号内都有5美元。
+### chat gpt账号【点击购买】必须有<mark>账号</mark>，并且<mark>购买国外chat gpt专用节点</mark>才可以使用，账号购买后会直接发送，请返回聊天窗口查看，购买的账号内包含5美元，查询一次的收费很低，如下图，5美元用完了，再买一个新号即可，新账号内都有5美元。
 [chat gpt账号【点击购买】](http://id444.cn/ &quot;chat gpt账号【点击购买】&quot;)
 ![](/media/images/202304/chatgpt_tokens_pric_models.png)
 
-### == chat gpt对线路要求非常高，需要购买国外节点后才可以使用，市面上绝大部分科学上网工具用不了，如果你自有的工具用不了chat gpt，那这里推荐购买西瓜加速高速节点==
+### <mark> chat gpt对线路要求非常高，需要购买国外节点后才可以使用，市面上绝大部分科学上网工具用不了，如果你自有的工具用不了chat gpt，那这里推荐购买智云加速高速节点</mark>
 
 ### 可以解决chat gpt登录使用限制等等的问题，官网有在线客服在线排忧解难
 
@@ -29,7 +29,7 @@ categories: chatGpt mac
 ⭕️四、登录常见问题
 
 ## 温馨提示：
-- ### ==教程里黄色标记部分是重点==
+- ### <mark>教程里黄色标记部分是重点</mark>
 - ### 保姆级教程，按照流程走很简单
 - ### 避免掉坑，争取一次成功！
 
@@ -40,9 +40,9 @@ categories: chatGpt mac
 
 ### 1、复制下面这个网址到浏览器中打开
 
-&gt; ### https://www.xiguajiasu.cc/#/register?code=wIpcSsCI
+&gt; ### https://zcloud88.com/register?aff=dw6ofj
 
-购买付费节点专享超高速网速，除了chat gpt，还可以使用==tiktok、谷歌、ins、youtube、twitter==等其它国外软件
+购买付费节点专享超高速网速，除了chat gpt，还可以使用<mark>tiktok、谷歌、ins、youtube、twitter</mark>等其它国外软件
 
 ### 2、注册登录
 
@@ -65,7 +65,7 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 
 ![](/media/images/202304/clashX_install.png)
 
-#### 4.3 打开西瓜加速首页，在我的订阅中 > 点击一键订阅 > 选择导入订阅 👇  ==注意：必须用苹果浏览器去导入，不能用微信或者其他浏览器==
+#### 4.3 打开智云加速首页，在我的订阅中 > 点击一键订阅 > 选择导入订阅 👇  <mark>注意：必须用苹果浏览器去导入，不能用微信或者其他浏览器</mark>
 
 &gt; #### https://www.xiguajiasu.cc
 
@@ -95,6 +95,9 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 
 
 ![](/media/images/202304/clashx_config_rule.png)
+
+
+### 8、重点：<mark>后面显示解锁openai的部分新加坡和日本可用 ，这些节点是解锁chat gpt的</mark>，选择其他节点无效，尤其不能选择香港、台湾、俄罗斯线路，这些地区禁用chat gpt
 
 ## ⭕️三、登录OpenAI账号
 
@@ -141,7 +144,7 @@ chat gpt账号购买地址：http://id444.cn/
 
 ![](/media/images/202304/chatgpt_thesis_1.png)
 
-登录账号和密码，这个账号和密码通用的，返回去复制，一定要注意，==邮箱账号跟密码前后一定不能有空格==，否则会导致登录错误
+登录账号和密码，这个账号和密码通用的，返回去复制，一定要注意，<mark>邮箱账号跟密码前后一定不能有空格</mark>，否则会导致登录错误
 
 ![](/media/images/202304/chatgpt_thesis_2.png)
 
@@ -175,7 +178,7 @@ chat gpt账号购买地址：http://id444.cn/
 
 ![](/media/images/202304/chatgpt_dallE2_1.png)
 
-#### 2、登录账号和密码，这个账号和密码通用的，返回去复制，一定要注意，==邮箱账号跟密码前后一定不能有空格==，否则会导致登录错误
+#### 2、登录账号和密码，这个账号和密码通用的，返回去复制，一定要注意，<mark>邮箱账号跟密码前后一定不能有空格</mark>，否则会导致登录错误
 
 ![](/media/images/202304/chatgpt_dallE2_2.png)
 
@@ -204,7 +207,7 @@ OpenAI&#39;s services are not available in your country. (error=unsupported_coun
 
 2、Clash开启全局模式，Glabal
 
-3、节点不要选香港、台湾、俄罗斯、越南。如果是使用我们推荐购买的西瓜加速节点，要点击上面解锁chatgpt的新加坡和日本节点，后面都有标注
+3、节点不要选香港、台湾、俄罗斯、越南。如果是使用我们推荐购买的智云加速节点，要点击上面解锁chatgpt的新加坡和日本节点，后面都有标注
 
 4、清除浏览器记录，或者是使用浏览器的无痕模式
 
