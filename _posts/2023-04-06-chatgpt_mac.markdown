@@ -6,7 +6,7 @@ categories: chatGpt mac
 ---
 ## 前言
 chat gpt账号【点击购买】必须有<mark>账号</mark>，并且<mark>购买国外chat gpt专用节点</mark>才可以使用，账号购买后会直接发送，请返回聊天窗口查看，购买的账号内包含5美元，查询一次的收费很低，如下图，5美元用完了，再买一个新号即可，新账号内都有5美元。
-[chat gpt账号【点击购买】](http://id444.cn/ &quot;chat gpt账号【点击购买】&quot;)
+[chat gpt账号【点击购买】](https://item.taobao.com/item.htm?spm=a21dvs.23580594.0.0.621e3d0dZtJWrb&ft=t&id=711014137039)
 
 ![](/assets/images/202304/chatgpt_tokens_pric_models.png)
 
